@@ -13,6 +13,8 @@ public class Friday2025 {
     /**
      * @param args the command line arguments
      */
+
+    //showing a command pull
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hi");
