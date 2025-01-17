@@ -17,6 +17,7 @@ public class Friday2025 {
         // TODO code application logic here
         System.out.println("Hi");
         //show other commit.
+        //making a change
     }
     
 }
