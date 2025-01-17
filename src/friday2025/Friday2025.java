@@ -20,6 +20,10 @@ public class Friday2025 {
         System.out.println("Hi");
         //show other commit.
         //making a change
+
+
+        // FETCH AND MERGE 
+        //FETCHING AND MERGING THE DATA 
     }
     
 }
